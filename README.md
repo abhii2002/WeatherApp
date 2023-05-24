@@ -9,3 +9,4 @@ Leveraging the powerful OpenWeatherMap API, this app offers a comprehensive rang
 - [Picasso](https://github.com/square/picasso) : A powerful image downloading and caching library for Android
 - [Retrofit](https://github.com/square/retrofit) : A type-safe HTTP client for Android and Java.
 - [Dexter](https://github.com/Karumi/Dexter) : Android library that simplifies the process of requesting permissions at runtime.
+- [OpenWeatherMap](https://openweathermap.org/api) : OpenWeather provides weather data for any location on the globe using a proprietary ML-powerd hyperlocal forecasting model.
